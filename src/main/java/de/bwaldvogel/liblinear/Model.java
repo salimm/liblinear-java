@@ -9,7 +9,7 @@ import java.io.Serializable;
 import java.io.Writer;
 import java.util.Arrays;
 
-
+ 
 /**
  * <p>Model stores the model obtained from the training procedure</p>
  *
